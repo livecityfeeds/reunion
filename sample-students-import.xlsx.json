@@ -1,0 +1,72 @@
+[
+  {
+    "first_name": "Vijay",
+    "last_name": "Kumar",
+    "section": "B",
+    "gender": "male",
+    "mobile": "9876543210",
+    "email": "vijay.kumar@example.com",
+    "dob": "1985-06-12",
+    "city": "Bangalore",
+    "work": "Software Engineer",
+    "attending_status": "attending",
+    "paid_status": "paid",
+    "contribution_amount": 2000
+  },
+  {
+    "first_name": "Priya",
+    "last_name": "Sharma",
+    "section": "A",
+    "gender": "female",
+    "mobile": "8765432109",
+    "email": "priya.sharma@example.com",
+    "dob": "1984-09-23",
+    "city": "Mumbai",
+    "work": "Marketing Director",
+    "attending_status": "attending",
+    "paid_status": "paid",
+    "contribution_amount": 2500
+  },
+  {
+    "first_name": "Rahul",
+    "last_name": "Patel",
+    "section": "C",
+    "gender": "male",
+    "mobile": "7654321098",
+    "email": "rahul.patel@example.com",
+    "dob": "1985-03-15",
+    "city": "Delhi",
+    "work": "Business Analyst",
+    "attending_status": "not_confirmed",
+    "paid_status": "pending",
+    "contribution_amount": 1000
+  },
+  {
+    "first_name": "Aisha",
+    "last_name": "Khan",
+    "section": "D",
+    "gender": "female",
+    "mobile": "6543210987",
+    "email": "aisha.khan@example.com",
+    "dob": "1984-11-30",
+    "city": "Hyderabad",
+    "work": "Doctor",
+    "attending_status": "attending",
+    "paid_status": "not_paid",
+    "contribution_amount": 0
+  },
+  {
+    "first_name": "Rajesh",
+    "last_name": "Singh",
+    "section": "B",
+    "gender": "male",
+    "mobile": "9876543211",
+    "email": "rajesh.singh@example.com",
+    "dob": "1985-02-19",
+    "city": "Pune",
+    "work": "Finance Manager",
+    "attending_status": "not_attending",
+    "paid_status": "not_applicable",
+    "contribution_amount": 0
+  }
+]
